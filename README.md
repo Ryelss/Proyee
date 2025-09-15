@@ -112,15 +112,15 @@ en el x estan la diferencia porcentual de cada con respecto al año anterior. Ha
 y una linea vertical que calcula el promedio de ventas de productos segun año-mes. Cada circulo representa un producto 
 el color depende en que cuadrante este y el tamaño del numero de pedidos.
 
-![Relacion ventas](https://github.com/ryelss/Proyee/blob/main/img/grafico%20dispersi%C3%B3n.png)
+![Relacion ventas](https://github.com/ryelss/Proyee/blob/main/grafico%20dispersi%C3%B3n.png)
 
 📌 Ventas por categoría y año-mes  
 
-![Ventas por Categoria](https://github.com/ryelss/Proyee/blob/main/img/Grafico%20Columnas.png)
+![Ventas por Categoria](https://github.com/ryelss/Proyee/blob/img/Grafico%20Columnas.png)
 
 📌 Ventas por  año-mes  y categoría
 
-![Ventas por Categoría](https://github.com/ryelss/Proyee/blob/main/img/Graficos%20Barra.png)
+![Ventas por Categoría](https://github.com/ryelss/Proyee/blob/img/Graficos%20Barra.png)
 ---
 
 ## 📈 Dashboard en Power BI  
@@ -130,5 +130,6 @@ el color depende en que cuadrante este y el tamaño del numero de pedidos.
 
 
 -
+
 
 
