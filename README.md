@@ -116,11 +116,11 @@ el color depende en que cuadrante este y el tamaño del numero de pedidos.
 
 📌 Ventas por categoría y año-mes  
 
-![Ventas por Categoria](https://github.com/ryelss/Proyee/blob/main/img/Grafico_columnas.png)
+![Ventas por Categoria](https://github.com/ryelss/Proyee/blob/main/img/Grafico_Columnas.png)
 
 📌 Ventas por  año-mes  y categoría
 
-![Ventas por año-mes](https://github.com/ryelss/Proyee/blob/main/img/Graficos_barra.png)
+![Ventas por año-mes](https://github.com/ryelss/Proyee/blob/main/img/Graficos_Barra.png)
 ---
 
 ## 📈 Dashboard en Power BI  
@@ -130,6 +130,7 @@ el color depende en que cuadrante este y el tamaño del numero de pedidos.
 
 
 -
+
 
 
 
