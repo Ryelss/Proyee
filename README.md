@@ -116,7 +116,7 @@ el color depende en que cuadrante este y el tamaño del numero de pedidos.
 
 📌 Ventas por categoría y año-mes  
 
-![Ventas por Categoria](https://github.com/ryelss/Proyee/blob/img/Grafico Columnas.png)
+![Ventas por Categoria]("https://github.com/ryelss/Proyee/blob/img/Grafico Columnas.png")
 
 📌 Ventas por  año-mes  y categoría
 
@@ -130,6 +130,7 @@ el color depende en que cuadrante este y el tamaño del numero de pedidos.
 
 
 -
+
 
 
 
